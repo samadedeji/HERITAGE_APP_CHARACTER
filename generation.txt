@@ -1,0 +1,20 @@
+Heritage Kids / review 02
+Built-in OpenAI image_gen. The interface did not return a versioned model ID or seed. Original first-pass boards were generated independently. Each hero and construction board used the same species' model board as its only reference.
+
+Board prompt:
+Studio character development board for Heritage Kids. [Subject]. Draw this original mascot as a masterful premium 2.5D painted animation maquette with beautiful expressive acting, warm directional lighting and species-specific proportions. On soft ivory, compose a large full-body three-quarter HERO on the left third. Right side has three orderly rows: six turnaround views, eight expressive head studies, eight distinct gesture poses. Clean spacing, finished color artwork, no text. Maintain the same individual throughout.
+
+Subjects:
+Folio, a lively African tortoise storyteller with a sun-worn ochre domed shell and moss-green neck
+Pip, an African grey parrot with scalloped graphite wing feathers, porcelain facial mask and striking crimson tail
+Glimmer, a bushbaby with lanternlike eyes, long mobile ears, delicate finger pads and a flowing plume tail
+Pleat, a gentle pangolin with tapered apricot overlapping leaf scales, pointed muzzle and strong sweeping tail
+Pebble, a playful African forest elephant calf with round ears and an expressive curling trunk
+
+Hero prompt (transparency enabled):
+Isolate the large hero on the left into one centered, fully visible polished full-body three-quarter pose on transparent background. Preserve EXACT character, lighting and markings. Leave margin on all sides. No other items.
+
+Construction prompt:
+Use the supplied character as canonical. Create a professional rigging and color key art sheet on ivory. Main exploded anatomical puppet breakdown with separate head, torso, paired limbs, eyes, lids, brows, species-specific parts, four clear closed / AH / EE / O mouth shapes. Include horizontal palette swatches. Diagram pivots with tiny colored circles. Preserve identical fine painted character artwork. Clean spacious editorial presentation.
+
+Product references: https://heritage-mvp.divineweb.co/design and https://heritage-mvp.divineweb.co/mockups and https://heritage-kids-preview.divineweb.co/
